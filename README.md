@@ -22,8 +22,4 @@ La résolution utilise la méthode du backtracking.
 
 ## Pour lancer un test
 
-- py -3 -m venv .venv
-
-- .\.venv\Scripts\Activate.ps1
-
 - python main.py data/exemple1.txt ou python main.py data/exemple1.txt --no-color
